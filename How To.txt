@@ -1,1 +1,1 @@
-Ref - local bookmark link: Power Platform folder -> Modern-Driven App -> Custom Dialog
+Ref - local bookmark link: Power Platform folder -> Modern-Driven App folder -> Custom Dialog folder
